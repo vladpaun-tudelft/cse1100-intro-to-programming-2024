@@ -1,2 +1,6 @@
-# cse1100-intro-to-programming-2024
-Archived coursework for TU Delft CSE1100 Introduction to Programming (Java), labs, tutorials, and practice exams.
+# CSE1100 Introduction to Programming 2024
+
+> **Archived repository**  
+> Personal archive of my TU Delft CSE1100 coursework. This repo is not maintained and is kept for reference only.
+
+This repository contains labs, tutorials, practice exams, and small exercises from the course. Code is Java unless noted otherwise.

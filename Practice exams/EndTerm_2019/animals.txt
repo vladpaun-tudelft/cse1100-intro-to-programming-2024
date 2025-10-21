@@ -1,0 +1,7 @@
+Penguin; 300; Tundra, Coastal
+Duck; 50; Coastal
+Rock Crab; 80; Coastal, Tundra, Reef
+Shark; 900; Reef, Coastal
+Herring; 40; Tundra, Coastal
+Orca; 1400; Tundra
+Bottlenose Dolphin; 600; Coastal

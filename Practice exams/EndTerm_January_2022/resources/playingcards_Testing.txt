@@ -1,0 +1,17 @@
+Unit Card
+NORMAL
+Knight of the Legion - 4 Energy
+4 Attack - 5 Defence
+Spell Card
+RARE
+Frost Ray - 3 Energy - Frost
+Freeze all enemy units, rendering them unable to attack for 1 turn.
+Weapon Card
+RARE
+Warhammer - 3 Energy
+2 Durability
+Leader Card
+LEGENDARY
+The Ice Queen - 8 Energy
+7 Attack - 6 Defence
+Upon playing, deal 2 frost damage to all enemies and freeze them.

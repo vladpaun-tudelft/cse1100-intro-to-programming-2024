@@ -1,0 +1,5 @@
+1. A Normal ball (Pink), it contains Oyster was drawn.
+2. A Epic ball (Purple), it contains Wild Duck was drawn.
+3. A Empty ball (Red), it does not contain a prize. was drawn.
+4. A Normal ball (White), it contains Capibara was drawn.
+5. A Normal ball (Pink), it contains Octopus was drawn.

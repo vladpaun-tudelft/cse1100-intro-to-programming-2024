@@ -1,0 +1,9 @@
+KPN, Hello You, 10.0 euro, 60, 250, 2, false, false, true
+KPN, Hello You, 10.0 euro, 60, 250, 2, false, false, true, Student, 10%
+T-Mobile, Connected+Student, 13.0 euro, 100, 1000, 4, true, true, true, Student, 0%
+T-Mobile, Connected+, 15.0 euro, 150, 500, 4, false, false, true
+T-Mobile, Connected+, 15.0 euro, 150, 500, 4, false, false, true, Student, 15%
+KPN, Silver, 16.0 euro, 200, unlimited, 4
+KPN, Gold, 29.0 euro, unlimited, unlimited, 9
+KPN, Gold, 29.0 euro, unlimited, unlimited, 9, Student, 20%
+Tele2, Huge, 35.0 euro, unlimited, unlimited, unlimited

@@ -1,0 +1,10 @@
+Year 1
+Object Oriented Programming,OOP,CSE1100;Reasoning and Logic,R&L,CSE1300;Computer Organisation,CO,CSE1400
+Web and Database Technology,WDT,CSE1500;Calculus,Calc,CSE1200;Algorithms and Data Structures,ADS,CSE1305
+Object Oriented Programming Project,OOPP,CSE1105;Information and Data Management,IDM,CSE1505;Linear Algebra,LinAlg,CSE1205
+Probability Theory and Statistics,PTSD,CSE1210;Software Quality and Testing,SQT,CSE1110;Computer Networks,CN,CSE1405
+Year 2
+Computer Graphics,CG,CSE2215;Machine Learning,ML,CSE2510
+Software Engineering Methods,SEM,CSE2115;Algorithm Design,AD,CSE2310
+Automata Computability and Complexity,ACC,CSE2315;Concepts of Programming Languages,CPL,CSE2120
+Software Project,SP,CSE2000

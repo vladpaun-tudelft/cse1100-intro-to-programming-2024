@@ -1,0 +1,16 @@
+Mekelweg; 4; 2628CD; Delft
+Construct a new bathroom on the 8th floor.
+JackHammer, A hardened chisel for reinforced floors; ConcreteMixer, None;
+30-1-2024
+Cornelis Drebbelweg; 5; 2628CM; Delft
+Repair the eastern stairway to the 1st floor.
+Scaffolding, At least 5 metres tall;
+23-10-2021
+van Mourik Broekmanweg; 6; 2628XE; Delft
+Repair a broken doorknob at office 3W.560.
+
+30-1-2024
+van hasseltlaan; 535; 2625JH; Delft
+Renovation of room 535A
+Scaffolding, 5m height minimum; JackHammer, Soft chisel bit;
+30-1-2024

@@ -1,0 +1,36 @@
+MOVIE Barbie; Adventure, Comedy, Fantasy; PG-13
+DURATION 1:54
+BOX OFFICE 1442 million
+CAST Margot Robbie; Barbie
+CAST Ryan Gosling; Ken
+CAST Andy Samberg; Jake Peralta
+CAST Melissa Fumero; Amy Santiago
+CAST Andre Braugher; Raymond Holt
+CAST Alex Goldman; themselves
+CAST Idina Menzel; Elsa
+CAST Kristen Bell; Anna
+CAST PJ Vogt; themselves
+PODCAST Reply All - Long Distance; Talk-show, Technology; PG
+DURATION 0:50
+CAST Alex Goldman; themselves
+CAST PJ Vogt; themselves
+SERIES Brooklyn 99; Comedy, Crime; PG-13
+DURATION 0:25; 153 episodes
+CAST Andy Samberg; Jake Peralta
+CAST Melissa Fumero; Amy Santiago
+CAST Andre Braugher; Raymond Holt
+MOVIE Oppenheimer; Drama, History, Thriller; R
+DURATION 3:00
+BOX OFFICE 954 million
+CAST Cillian Murphy; J. Robert Oppenheimer
+PODCAST Terrible thanks for asking; Talk-show; PG-13
+DURATION 0:59; 656 episodes
+CAST Nora McInerny; themselves
+MOVIE Frozen; Adventure, Comedy, Fantasy, Drama; G
+DURATION 1:42
+BOX OFFICE 1282 million
+CAST Idina Menzel; Elsa
+CAST Kristen Bell; Anna
+SERIES Grey's anatomy; Drama; PG-13
+DURATION 0:41; 420 episodes
+CAST Ellen Pompeo; Dr. Meredith Grey

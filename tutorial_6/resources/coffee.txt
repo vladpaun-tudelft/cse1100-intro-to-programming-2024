@@ -1,0 +1,20 @@
+COFFEES
+COFFEE,espresso,1.99
+VARIATION,lungo,1.00
+VARIATION,ristretto,0.50
+VARIATION,double,1.50
+COFFEE,cappuccino,3.49,lactose
+VARIATION,large,1.50
+VARIATION,iced,0.50
+COFFEE,latte,2.99,lactose
+VARIATION,large,1.40
+VARIATION,iced,0.40
+COFFEE,chococcino,3.99,lactose,chocolate
+VARIATION,large,1.60
+ADDITIONS
+ADDITION,vanilla,1.00
+ADDITION,hazelnut,1.00,nuts
+ADDITION,soy milk,1.00,soy
+ADDITION,lactose free,1.00
+ADDITION,sugar,0.10
+ADDITION,milk,0.10,lactose
